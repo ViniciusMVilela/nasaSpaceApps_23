@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#marte {
+    color: white;
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+#marte .divisao {
+    width: 50%;
+}
+
+.right {
+    width: 60%;
+    display: grid;
+    grid-template-rows: 1fr 2fr 2fr;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.left-text {
+    font-size: 40px;
+    padding: 50px;
+}
+
+.left-text-bottom {
+    margin-bottom: 30px;
+    display: flex;
+}
+
+.left-text-bottom div {
+    padding: 10px;
+    align-self: flex-end;
+}
+
+.bottom-division {
+    display: flex;
+}
+
+.bottom-division:nth-child(1) {
+    width: 90%;
+}
+
+.bottom-division span {
+    padding: 10px;
+}
+
+.row {
+    padding: 10px;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 2fr 1fr;
+}
+
+.row_3 {
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.row div {
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.flex {
+    display: flex;
+}
+
+.light {
+    font-weight: 100;
+}
+
+.grande {
+    font-size: 42px;
+}
+
+.pequeno {
+    font-size: 20px;
+}
+
+.amarelo {
+    color: yellow;
+}
+
+.branco {
+    color: white;
+}
+
+.azul {
+    color: rgb(6, 189, 221);
+}
+
+p {
+    color: white;
+    margin-top: 10px;
+}
+
+.border {
+    border: 1px solid white;
+}
+
+.linha {
+    border-bottom: 1px solid white;
+}
+
+.img {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
