@@ -9,10 +9,10 @@ com interação e animação com o usuário, informações em tela e narrada sob
 informativa 
 
 ## Tecnologias utilizadas
-1 - HTML<br>
-2 -CSS <br>
-3 - JS <br>
-4 - Three JS <br>
+1 - HTML
+2 -CSS
+3 - JS
+4 - Three JS
 5 - SCSS
 
 ## Inicialização
@@ -26,12 +26,14 @@ HTTPS:
 
     git clone https://github.com/ViniciusMVilela/nasaSpaceApps_23.git
 
+### Comandos
+
 
     cd project
     npm i
     npm install three.interactive
     npx vite
-    
+
 
 
 ## Implementação futuras
@@ -42,12 +44,12 @@ HTTPS:
 5 - Aplicativo para venda de ingressos e interação em 3D.
 
 ## Colaboradores
-1 - Cassia Yumi<br>
-2 - Ricardo Francisco<br>
-3 - Vinicius Vilela<br>
-4 - João Pedro<br>
-5 - Rhayssa Andretto<br>
-6 - Jean Ap. Soares<br>
+1 - Cassia Yumi
+2 - Ricardo Francisco
+3 - Vinicius Vilela
+4 - João Pedro
+5 - Rhayssa Andretto
+6 - Jean Ap. Soares
 
 ## Status do projeto 
 Projeto em desenvolvimento com funcionamento básico sobre um planeta (Marte) e com diversas
