@@ -6,7 +6,6 @@
 3 - Descrição relevantes sobre os planetas possivelmente habitáveis.<br>
 4 - Imersão em 3D visto em primeira pessoa a partir da terra,
 com interação e animação com o usuário, informações em tela e narrada sobre os planetas pretendidos.
-informativa 
 
 ## Tecnologias utilizadas
 1 - HTML
