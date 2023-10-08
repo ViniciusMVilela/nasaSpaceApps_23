@@ -8,7 +8,7 @@
 com interação e animação com o usuário, informações em tela e narrada sobre os planetas pretendidos.
 
 ## Tecnologias utilizadas
-1 - HTML
+1 - HTML<br>
 2 -CSS<br>
 3 - JS<br>
 4 - Three JS<br>
