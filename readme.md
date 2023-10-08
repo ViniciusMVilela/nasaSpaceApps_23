@@ -9,7 +9,7 @@ com interação e animação com o usuário, informações em tela e narrada sob
 
 ## Tecnologias utilizadas
 1 - HTML<br>
-2 -CSS<br>
+2 - CSS<br>
 3 - JS<br>
 4 - Three JS<br>
 5 - SCSS
