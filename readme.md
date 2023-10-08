@@ -46,7 +46,7 @@ com interação e animação com o usuário, informações em tela e narrada sob
 2 - Ricardo Francisco [Github](https://github.com/ricardoofilho) [Linkedin](https://www.linkedin.com/in/ricardo-francisco2710?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)<br>
 3 - Vinicius Vilela [Github](https://github.com/viniciusMVilela) [Linkedin](https://www.linkedin.com/in/vin%C3%ADcius-vilela-826a04234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)<br>
 4 - João Pedro [Github](https://github.com/joaopedrohb) [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-pedro-hieda-bortolotto-0268a7234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)<br>
-5 - Rhayssa Andretto [Github](https://github.com/rhayssaandretto) [Linkedin](https://www.linkedin.com/in/rhayssa-andretto?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br>
+5 - Rhayssa Andretto [Github](https://github.com/rhayssaandretto) [Linkedin](https://www.linkedin.com/in/rhayssa-andretto)<br>
 6 - Jean Ap. Soares [Github](https://github.com/jeanunicesumar) [Linkedin](https://www.linkedin.com/in/jean-soares-058836258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)<br>
 
 ## Status do projeto 
